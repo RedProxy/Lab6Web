@@ -27,7 +27,7 @@
 
 - Hasil Tambah
 
-![hasil1](img/hasil tambah.png)
+![hasil1](img/hasil1.png)
 
 2. Ubah
 
@@ -35,6 +35,6 @@
 
 - Hasil Tambah
 
-![hasil2](img/hasil ubah.png)
+![hasil2](img/hasil2.png)
 
 # Terima Kasih!
