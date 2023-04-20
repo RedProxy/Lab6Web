@@ -33,7 +33,7 @@
 
 ![UBAH](img/ubah.png)
 
-- Hasil Tambah
+- Hasil Ubah
 
 ![hasil2](img/hasil2.png)
 
