@@ -1,4 +1,4 @@
-# Tugas Pemrograman Web 2 (Praktikum 6: OOP Lanjutan)
+# Tugas Pemrograman Web 2 (Praktikum 6)
 ## Profil
 | #               | Biodata                      |
 | --------------- | ---------------------------- |
@@ -6,6 +6,8 @@
 | **NIM**         | 312110388                    |
 | **Kelas**       | TI.21.A.1                    |
 | **Mata Kuliah** | Pemrograman Web 2            |
+
+## Praktikum 6: OOP Lanjutan
 
 - Buat project baru dengan struktur sebagai berikut:
 
